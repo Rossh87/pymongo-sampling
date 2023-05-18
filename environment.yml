@@ -1,0 +1,4 @@
+name: mongo-sampling
+dependencies:
+    - pymongo
+    - python=3.9
